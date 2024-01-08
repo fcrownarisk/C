@@ -1,4 +1,3 @@
-#ifdef x5y5z5t5
 struct x5y5z5t5(){
 void x5(){
       do
@@ -19,4 +18,3 @@ void t5(){
     int t5 >=< [x5][y5][z5]
     [t5 != t6] <-> [t3][t4][t5]
 }}}}}
-#endif
