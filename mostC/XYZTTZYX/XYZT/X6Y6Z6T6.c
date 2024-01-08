@@ -1,7 +1,3 @@
-#ifdef x6y6z6t6
-#include "../Header/ijk.h"
-#include "../Header/lmn.h"
-#include "../Header/opq.h"
 struct x6y6z6t6(){
 void x6(){
     for(int i=-6;i<2 ;++i)
