@@ -1,5 +1,5 @@
 
-struct t7z3y3x3() {
+struct t3z3y3x3() {
        void t7(){
             [t3] >=< [z3][y3][x3]
             [t3 != t4] <-> [t1][t2][t3]
