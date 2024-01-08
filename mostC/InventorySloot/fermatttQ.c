@@ -1,4 +1,4 @@
-void main(){
+void ifd(){
     int i;
     float j;
     double k;
