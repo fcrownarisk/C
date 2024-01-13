@@ -1,10 +1,7 @@
 #ifdef InventorySlots369
 #include "../AAA/abcdefg.c"
 #include "../function/functionmath.c"
-#include "../efgh/g.c"
-#include "../efgh/h.c"
-#include "../efgh/e.c"
-#include "../efgh/f.c"
+#include "../Header/efgh.h
 #include "../tt/tt.c"
 #include "../tt/t123456789t.c"
 localvar()}
