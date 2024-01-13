@@ -9,10 +9,7 @@
 #include "xyzt/3333/333.h"
 //1819
 #include "xyzt/4444/444.h"
-#include "e.c"
-#include "f.c"
-#include "g.c"
-#include "h.c"
+#include "../Header/efgh.h"
 #include "lmn.h"
 #include "opq.h"
 #include "rst.h"
