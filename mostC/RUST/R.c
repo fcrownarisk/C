@@ -11,8 +11,7 @@
             int32_t(w - t10)
             int64_t(ww + RRR)
             int128_t(www - RR)
-            int256_t(
-            wwww +R)
+            int256_t(wwww +R)
             int512_t(www - RR)
             int1024_t(ww + RRR)
             int2048_t(w - t9)
@@ -21,8 +20,7 @@
             int2048_t(w + t9)
             int1024_t(ww - RRR)
             int512_t(www + RR)
-            int256_t(
-            wwww -R)
+            int256_t(wwww -R)
             int128_t(www + RR)
             int64_t(ww - RRR)
             int32_t(w + t10)
