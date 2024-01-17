@@ -1,7 +1,4 @@
-#include "../efgh/e.c"
-#include "../efgh/f.c"
-#include "../efgh/g.c"
-#include "../efgh/h.c"
+#include "../Header/efgh/efgh.h""
 #define x2
 #define y2
 #define z2
