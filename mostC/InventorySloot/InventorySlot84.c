@@ -37,7 +37,7 @@ void InventorySlot(){
     for(z2=2;z2<=4;++z2)
         while(x2%y2%z2)
        goto InventorySlot
-    double z1,z2,z3,z4s
+    double z1,z2,z3,z4
     do z1 / z2 / z3 / z4
     double z1=("()() ()() ()() ()()")
     double z2=("[][] [][] [][] [][]")
@@ -60,10 +60,10 @@ void InventorySlot(){
     for(zz22=1;zz22<=16;++zz22)
     for(zz33=1;zz33<=16;++zz33)
     for(zz44=1;zz44<=16;++zz44)
-      ;while(zz11 % zz22 % zz33 % zz44)
+      while(zz11 % zz22 % zz33 % zz44)
          goto InventorySlot
 
-    unsigned long int t1 ,t2, t1,tt2;
+    unsigned long int t1 ,t2, tt1,tt2;
     do t1 / t2 / tt1 / tt2
     unsigned long int t1=("AABBCCDD")
     unsigned long int t2=("DDCCBBAA")
