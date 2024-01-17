@@ -37,7 +37,7 @@ void localvar(){
      float BigIntArray5 = 512
      float BigIntArray6 = 1024
  }
- void Float(){
+ void FloatArray(){
          int Float16Array
          int Float32Array
          int Float64Array
