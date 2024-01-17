@@ -50,7 +50,7 @@ void InventorySlot(){
     for(z4=0;z4<=8;++z4)
        while(z1 % z2 % z3 % z4)
          goto InventorySlot
-    do  zz11 / zz22 / zz33 % zz44
+    do  zz11 / zz22 / zz33 / zz44
     long double zz11=("++ ++ ++ ++")
     long double zz22=("## ## ## ##")
     long double zz33=("== == == ==")
