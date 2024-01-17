@@ -20,8 +20,8 @@ void localvar(){
             signed long long int Array6 = 1024
             unsigned long long int Array8 = 4096
         }
- void FloatArray(){
-     float BigIntArray0 = 16
+ void Float(){
+    int BigIntArray0 = 16
     int FloatArray1 = 32
     int FloatArray2 = 64
     int FloatArray3 = 128
