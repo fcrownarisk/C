@@ -27,10 +27,10 @@ void InventorySlot(){
    goto InventorySlot
     float x2,y2,z2,t2;
     do (x2 % y2 % z2) * t2
-    float x2=("---s -----")
-    float y2=("!!! !!!!!")
+    float x2=("-- -- -- --")
+    float y2=("!! !! !! !！")
     float z2=("'\\ \\ \\ \\'")
-    float t2=("=========")
+    float t2=("== == == ==")
     do  x2 * y2 * z2
     for(x2=2;x2<=4;++x2)
     for(y2=2;y2<=4;++y2)
