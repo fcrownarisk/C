@@ -1,5 +1,5 @@
 
-void (){
+void main(){
     function scalar(){
         scalar(
     }
