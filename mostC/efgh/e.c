@@ -13,8 +13,8 @@
 #define m2 2
 #define m3 3
 #define m4 4
-#define m51 
-#define m52 
+#define m51 m1m2
+#define m52 m3m4
 #define v1 5
 #define v2 6
 #define v3 7
