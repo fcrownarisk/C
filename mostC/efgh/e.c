@@ -6,8 +6,8 @@
 #include "ijk.h"
 #include "lmn.h"
 #include "opq.h"
-#include "InventorySlot.c"
-#include "InventorySlots.c"
+#include "InventorySlot84.c"
+#include "InventorySlots369.c"
 #include "abcdefg.c"
 #define m1 1
 #define m2 2
