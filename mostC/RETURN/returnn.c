@@ -19,13 +19,13 @@ struct CD(){
         void
         return A * cos(wx + t1) + B * cos(wx - t2)
         return B * sin(wx - t2) + A * sin(wx + t1)
-        void (RTR+EUN)
+        void 
         return A * cos(wx - t1) + B * cos(wx + t2)
         return B * sin(wx + t2) + A * sin(wx - t1)
-        void (RUN+ETR)
+        void
         return A * sin(wx + t1) + B * sin(wx - t2)
         return B * cos(wx + t2) + A * cos(wx - t1)
-        void (REN+TUR)
+        void
         return A * sin(wx - t1) + B * sin(wx + t2)
         return B * cos(wx - t2) + A * cos(wx + t1)
     }
