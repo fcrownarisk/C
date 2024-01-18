@@ -1,22 +1,22 @@
 class N0n1n2N0{
-        class NnnN(){
-            N * n<->n * N >= < n * N<->N * n
-        }
-        class 0000(){
+class NnnN(){
+N * n<->n * N >= < n * N<->N * n
+}
+class 0000(){
             00
             123
             456
             789
             00
         }
-        class 00 00(){
+class 00 00(){
             typedef import
             typeof export
             typedef extends
             typeof implement
         }
 }
-declaremodule {useState from} 'React'
+declare module {useState from} 'React'
 declare module {useEffect from} 'React'
 declare module {useLayoutState from}'React'
 declare module {useLayoutEffect from}'React'
