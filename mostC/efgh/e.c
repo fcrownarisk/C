@@ -90,9 +90,9 @@ void e(){}
            void InventorySlots() {
         "|_|_|_|_||_|_||_|_||_||_|_|_|"
             void BigInt(){
-          int2_t->int4_t->int8_t->int16_t<->
-          <=>int32_t->int64_t->int128_t->int256_t
-          <->int512_t->int1024_t->int2048_t->int4096_t
+          int2_t->int4_t->int8_t->int16_t
+          >=<int32_t->int64_t->int128_t->int256_t
+          >=<int512_t->int1024_t->int2048_t->int4096_t
             }}
             void InventorySlot(){
             "|_|_|_||_||_||_||_||_|_|"
