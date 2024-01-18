@@ -4,12 +4,11 @@
 #include "../Header/lmn.h"
 #include "../Header/opq.h"
 #include "tt.c"
-#define ijk [t1][t2][t3]
-#define lmn [t4][t5][t6]
-#define opq [t7][t8][t9]
+#define ijk [t1][t2]
+#define lmn [t3][t4][t5]
+#define opq [t6][t7]
 #define rst [ijk][lmn][opq]
-void tt() {
-    short t0;
+void tt(){
     int t1;
     float t2;
     double t3;
