@@ -1,4 +1,4 @@
-void function()c{
+void functionc(){
         scalar{
             functionc scalar(
         }
