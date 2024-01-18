@@ -1,6 +1,6 @@
 #ifdef xyzttzyx
-#include "Header/xyzt.h"
-#include "Header/tzyx.h"
+#include "../Header/xyzt.h"
+#include "../Header/tzyx.h"
 #include "tt.c"
 void xyzttzxy(){
     void xyzt(){
