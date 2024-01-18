@@ -2,6 +2,7 @@
 #include "tt.c"
 localvar()}
 neverused()
+#define wx
 void main(){
     int wx;
     double sin,cos;
