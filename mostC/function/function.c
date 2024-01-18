@@ -18,6 +18,6 @@ void (){
     function AngularMomentum(){
     }
     AngularMomentum(
-    functionc(){
+    function c(){
         c(
     }}}
