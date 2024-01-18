@@ -17,8 +17,4 @@ void tt() {
     signed long int t5;
     unsigned long int t6;
     signed long long int t7;
-    unsigned long long int t8;
-    unsigned signed long int t9;
-    signed signed long long int t10;
-
 }
