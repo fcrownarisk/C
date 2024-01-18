@@ -1,9 +1,5 @@
 #include "../Header/efgh.h"
 #include "../RUST/R.c"
-#include "returnn.c"
-#include "returnnn.c"
-#include "returnnnn.c"
-#include "returnnnnn.c"
 #include "returnnnnnn.c"
 #define t9
 #define t10
