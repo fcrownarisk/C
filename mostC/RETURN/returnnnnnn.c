@@ -1,4 +1,4 @@
-#include "../math.h"
+#include "math.h"
 #include "../efgh/g.c"
 #include "../efgh/e.c"
 #include "returnnnn.c"
@@ -20,8 +20,6 @@ void manifold(){
     void enum(){
         exp(ww + wx * e) + exp(wx * e + ww)
         exp(ww * e + wx) + exp(ww * e + wx)
-        return returnn
-        return returnnn
         return returnnnn
         return returnnnnn
     }
