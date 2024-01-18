@@ -5,8 +5,8 @@
 #definw m55 m6m7
 #definw m10 m8m9
 #dwfine 
-#definw scala
-#definw tension
+#define scala
+#define tension
 #define vector
 void scala(){
    
