@@ -2,7 +2,6 @@
 #include "../Header/return.h"
 void w(){
     char w 
-    
 ;}
 void ww(){
     char ww 
@@ -12,10 +11,8 @@ void www(){
 ;}
 void wwww(){
     char wwww 
-    ;
-}
+;}
 void wwwww(){
     char wwwww 
-    ;
-}
+;}
 
