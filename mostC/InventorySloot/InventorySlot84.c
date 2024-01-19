@@ -1,13 +1,6 @@
 #include "../Header/ABCD/ABCD.h"
 #include "../Header/efgh/efgh.h"
-#define x2
-#define y2
-#define z2
-#define t2
-#define zz11
-#define zz22
-#define zz33
-#define zz44
+#include "../Header"
 void InventorySlot(){
     int x1,y1,z1,t1;
     do  (x1 / y1 / z1) % t1
