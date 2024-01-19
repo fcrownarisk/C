@@ -15,7 +15,7 @@ void fh() {
     function RETURN() {
         void
         return h / acos(w + t1) + f / acos(ww - t2)
-        return f % asin(w - t2) + h % asin(w + t1)
+        return f / asin(w - t2) + h / asin(w + t1)
         void
         return h / acos(w - t1) + f / acos(w + t2)
         return f / asin(w + t2) + h / asin(w - t1)
