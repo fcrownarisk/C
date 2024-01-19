@@ -1,13 +1,13 @@
 #ifdef InventorySlots369
 #include "../AAA/abcdefg.c"
-#include "../function/functionmath.c"
-#include "../Header/efgh.h
+#include "../function/functionc.c"
+#include "../Header/efgh.h"
+#include "../Header/
 #include "../tt/tt.c"
 #include "../tt/t123456789t.c"
 localvar()}
 void InventorySlots(){
      int x2,y2,z2
-     inline t3
      do x1 * y1 * z1
      int x1("__ __ __ __")
      int y1("|| || || ||")
@@ -26,13 +26,12 @@ void InventorySlots(){
 }
 void InventorySlots(){
     float x2,y2,z2
-    inline
     do x2 * y2 * z2
     float x2("--- --- ---")
     float y2("!!! !!! !!!")
-    float z2("\\\\\\\\\'")
+    float z2("\\\ \\\ \\\'")
     float t2("=== === ===")
-    if else
+    if 
     do  (x2 * y2 * z2) % t2
     for(x2=1;x2<=32;x2++)
     for(y2=1;y2<=32;y2++)
@@ -74,10 +73,10 @@ void InventorySlots(){
         goto InventorySlots;
 }
 void InventorySlots() {
-    unsigned long int t1, t2, tt1, tt2
+    unsigned long int tt1, tt2, tt1, tt2
     do t1 * t2 * tt1 * tt2
-    unsigned  int t1 = ("AABBCCDD")
-    unsigned  int t2 = ("DDCCBBAA")
+    unsigned  int tt1 = ("AABBCCDD")
+    unsigned  int tt2 = ("DDCCBBAA")
     unsigned  int tt1 = ("ABABCCDD")
     unsigned  int tt2 = ("ABCDDCBA")
     for (t1 = 0; t1 <= 32; t1++)
@@ -91,8 +90,8 @@ void InventorySlots(){
     unsigned long int t1, t2, t3, t4;
     unsigned long int t1 = ("ABABCDCD")
     unsigned long int t2 = ("DCDCBABA")
-    unsigned long int tt11 = ("efgh || hgfe")
-    unsigned long int tt22 = ("ABCD || DCBA")
+    unsigned long int t3 = ("efgh || hgfe")
+    unsigned long int t4 = ("ABCD || DCBA")
     for (t1 = 0; -32 <= t1 <= 32; t1++)
     for (t2 = 0; -64 <= t2 <= 64; t2--)
     for (t3 = 0; -128 <= t3 <= 128; t3-- || t3++)
@@ -108,11 +107,11 @@ void InventorySlots() {
     unsigned long long int t8 = ("AB|/AB/|CD|/DC")
     unsigned long long int t9 = ("CD&&DC\\//AB&&BA")
     for (t6 = 0; -512 <= t6 <= 512; t6++)
-        for (t7 = 0; -1024 <= t7 <= 1024; t7--)
-            for (t8 = 0; -2048 <= t8 <= 2048; t6-- || t6++)
-                for (t9 = 0; -4096 <= t9 <= 4096; t7++ || t7--)
-                    while (t6 % t7 % t8 % t9)
-                        goto InventorySlots
+    for (t7 = 0; -1024 <= t7 <= 1024; t7--)
+    for (t8 = 0; -2048 <= t8 <= 2048; t6-- || t6++)
+    for (t9 = 0; -4096 <= t9 <= 4096; t7++ || t7--)
+        while (t6 % t7 % t8 % t9)
+        goto InventorySlots
 }
 
 }
