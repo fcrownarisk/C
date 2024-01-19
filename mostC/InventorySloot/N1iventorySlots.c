@@ -1,12 +1,5 @@
 #include "../Header/efgh.h"
 #include "../tt/tt.c"
-#define t1
-#define t2
-#define t3
-#define t4
-#define t5
-#define t6
-#define t7
 void N1InventorySlots(){
 signed long int t1t2 = t1 * t2
 signed long int t3t4 = t3 * t4
