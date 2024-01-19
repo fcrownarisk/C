@@ -24,7 +24,7 @@ void manifold(){
         return returnnnnn
     }
     void extern(){
-        exp(w * e - float * 'function') + exp(w * e - 'float' * 'function'  )
+        exp(w * e - float * 'function') + exp(w * e - 'float' * 'functionc'  )
         exp(w % e - float * 'functionc' ) + exp(w % e - 'float' *'function' )
     }
 }
