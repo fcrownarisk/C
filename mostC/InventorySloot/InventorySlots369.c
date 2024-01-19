@@ -31,7 +31,7 @@ void InventorySlots(){
     float y2("!!! !!! !!!")
     float z2("\\\ \\\ \\\'")
     float t2("=== === ===")
-    if 
+    if else
     do  (x2 * y2 * z2) % t2
     for(x2=1;x2<=32;x2++)
     for(y2=1;y2<=32;y2++)
