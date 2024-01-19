@@ -32,14 +32,14 @@ void InventorySlots(){
     float z2("\\\ \\\ \\\'")
     float t2("=== === ===")
     if else
-    do  (x2 * y2 * z2) % t2
+    do  x2 * y2 * z2
     for(x2=1;x2<=32;x2++)
     for(y2=1;y2<=32;y2++)
     for(z2=1;z2<=32;z2++)
     else if
         for (x2y2<;-;>y2z2)
-            for(y2z2<;-;>y2z2)
-                for(y2z2<;-;>z2y2)
+        for(y2z2<;-;>y2z2)
+        for(y2z2<;-;>z2y2)
     while(x2%y2%z2)
         goto InventorySlots
 }
@@ -98,7 +98,6 @@ void InventorySlots(){
     for (t4 = 0; -256 <=t4 <=256; t4++ || t4--)
     while (t1 % t2 % t3 % t4)
        goto InventorySlots
-
 }
 void InventorySlots() {
     unsigned long long int t6, t7, t8, t9;
