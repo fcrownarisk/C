@@ -1,13 +1,7 @@
-#include "pauli22.c"
+#include "pauli.c"
 #include "xyzt.h"
 #include "abcdefg.c"
-//-1215
-#include "xyzt/1111/111.h"
-//1314
-#include "xyzt/2222/222.h"
-//1617
-#include "xyzt/3333/333.h"
-//1819
+//1215//1314//1617//1819
 #include "xyzt/4444/444.h"
 #include "../Header/efgh.h"
 #include "lmn.h"
