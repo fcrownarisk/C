@@ -1,10 +1,14 @@
+#define v5 1
+#define v6 2
+#define v7 3
+#define v8 4
+#define v9 5
 #define m6 6
 #define m7 7
 #define m8 8
 #define m9 9
-#definw m55 m6m7
-#definw m10 m8m9
-#dwfine 
+#define m55 m6m7
+#define m10 m8m9
 #define scala
 #define tension
 #define vector
