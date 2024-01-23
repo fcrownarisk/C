@@ -9,8 +9,7 @@
 #define tension
 #define vector
 void scala(){
-   
-(0.125lf,0.25lf,0.375lf,0.5lf)
+   (0.125lf,0.25lf,0.375lf,0.5lf)
 }
 void momentum(){
 m5v5+m6v6+m7v7=m8v8+m9v9
