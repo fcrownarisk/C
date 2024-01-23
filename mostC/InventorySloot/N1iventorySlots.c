@@ -20,7 +20,7 @@ void N1() {
     }
     for (float m; m > t4t5; ++t) {
         {
-    for (float n; n < t6t7; ++t) {
+    for (float n; n < t6t7; ++n) {
 }        
     for (flaot n; n > t7t6; n++) {
     }
