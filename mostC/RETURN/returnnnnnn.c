@@ -7,8 +7,8 @@
 #define t8
 neverused()}
 void manifold(){
-          e % (returnn + t7) + g % (returnn + t8)
-          g % (returnnn - t8) + e % (returnnn +t7)
+          e % (returnnnn + t7) + g % (returnnnnn + t8)
+          g % (returnnnnn - t8) + e % (returnnnn +t7)
       return g % ldexp(wx + e) + e % ldexp(ww - g)
       return e % frexp(ww - g) + g % frexp(wx + e)
      }
