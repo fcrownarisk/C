@@ -64,7 +64,7 @@ void InventorySlots(){
     long double zz11=("++ ++ ++ ++")
     long double zz22=("## ## ## ##")
     long double zz33=("== == == ==")
-    long double zz44=("\\ || |/ //")
+    long double zz44=("\\ || || //")
     for(zz11=0;zz11<=32;zz11++)
     for(zz22=0;zz22<=32;zz22++)
     for(zz33=0;zz33<=32;zz33++)
