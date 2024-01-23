@@ -19,8 +19,8 @@ void InventorySlots(){
     for(z1=1;z1<=32;z1++)
     else if
     for(x1y1<;-;>x2y2)
-        for(x2y2<;-;>y2x2)
-            for(x2z2<;-;>z2y2)
+    for(x2y2<;-;>y2x2)
+    for(x2z2<;-;>z2y2)
     while(x1%y1%z1)
      goto InventorySlots
 }
