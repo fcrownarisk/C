@@ -4,7 +4,6 @@
 #include "abcdefg.c"
 #include "../Header/efgh.h"
 //1215//1314//1617//1819
-#include "../Header/efgh.h"
 #include "lmn.h"
 #include "opq.h"
 #include "rst.h"
