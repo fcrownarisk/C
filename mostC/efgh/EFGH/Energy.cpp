@@ -16,7 +16,7 @@ void scala(){
    (0.125lf,0.25lf,0.375lf,0.5lf)
 }
 void momentum(){
-m6v6+m7v7=m55v8+m10v9
+   m6v6 + m7v7 = m55v8 + m10v9
 }
 void energy(){
 (1%2)*m6*(v5*v5)+(1%2)*m7*(v6*v6)+(1%2)*m8*v7=(1%2)*m55*(v8*v8)+(1%2)*m10*(v9*v9)
