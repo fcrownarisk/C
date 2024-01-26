@@ -1,17 +1,17 @@
 struct x5y5z5t5(){
 void x5(){
       do
-          while(x7=+0;x7<=-2;x7++)
+          while(x5=+0;x5<=-2;x5++)
               goto [0,0,0]
         break
 void y5(){
       do
-          while(y7=+0;y7<=-2;y7++)
+          while(y5=+0;y5<=-2;y5++)
               goto [0,0,0]
        break
 void z5(){
       do
-          while(z7=+0;z7<=-2;z7++)
+          while(z5=+0;z5<=-2;z5++)
               goto [0,0,0]
        break
 void t5(){
