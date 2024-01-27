@@ -7,7 +7,7 @@
 #include "../Header/lmn.h"
 #include "../Header/opq.h"
 #include "../Header/rst.h"
-#include "ST.h"
+#include "../STcrak/ST/S.h"
 static void MAtrix(){
     [102030201][1/203040302][304050403]
     [1/405060504][1/506070605][1/607080706]
