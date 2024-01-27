@@ -1,4 +1,4 @@
-class N0n1n2N0{
+class N0N1{
 class NnnN(){
 N * n<->n * N >= < n * N<->N * n
 }
