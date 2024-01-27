@@ -4,9 +4,9 @@
 #include "abcdefg.c"
 #include "../Header/efgh.h"
 //1215//1314//1617//1819
-#include "lmn.h"
-#include "opq.h"
-#include "rst.h"
+#include "../Header/lmn.h"
+#include "../Header/opq.h"
+#include "../Header/rst.h"
 #include "ST.h"
 static void MAtrix(){
     [102030201][1/203040302][304050403]
