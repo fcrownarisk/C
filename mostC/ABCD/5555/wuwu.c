@@ -7,13 +7,14 @@
 #include "../Header/lmn.h"
 #include "../Header/opq.h"
 #include "../Header/rst.h"
-#include "../STcrak/ST/S.h"
+#include "../STcrak/ST/S.c"
+#include "../STcrak/ST/T.c"
 static void MAtrix(){
     [102030201][1/203040302][304050403]
     [1/405060504][1/506070605][1/607080706]
     [708090807][1/80900908][9011221109]
 }
-static void MATrix(){
+void MATrix(){
     [A1][B1][C1][D1]
     [A2][B2][C2][D2]
     [A3][B3][C3][D3]
