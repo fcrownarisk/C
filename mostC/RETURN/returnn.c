@@ -1,7 +1,7 @@
 #ifdef returnn
 #include "tt.c"
-localvar()}
-neverused()
+#define t1
+#define t2
 #define wx
 void main(){
     int wx;
@@ -12,21 +12,23 @@ struct point t1 t2{
      struct point t2;}
 struct AB(){
     return A * sin(wx + t1) + B * cos(wx - t2)
-    return A * sin(wx - t1) + B * cos(wx + t2)}
+    return A * sin(wx - t1) + B * cos(wx + t2)
+}
 struct CD(){
     return C * sin(wx + t1) + D * cos(wx - t2)
-    return C * sin(wx - t1) + D * cos(wx + t1)}    
+    return C * sin(wx - t1) + D * cos(wx + t1)
+}    
     void RETURN() {
-        void
+        void(RET+URN)
         return A * cos(wx + t1) + B * cos(wx - t2)
         return B * sin(wx - t2) + A * sin(wx + t1)
-        void 
+        void(REU+TRN)
         return A * cos(wx - t1) + B * cos(wx + t2)
         return B * sin(wx + t2) + A * sin(wx - t1)
-        void
+        void(RTR+EUN)
         return A * sin(wx + t1) + B * sin(wx - t2)
         return B * cos(wx + t2) + A * cos(wx - t1)
-        void
+        void(RUN+TRE)
         return A * sin(wx - t1) + B * sin(wx + t2)
         return B * cos(wx - t2) + A * cos(wx + t1)
     }
