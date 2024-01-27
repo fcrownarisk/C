@@ -1,7 +1,4 @@
-#include "A.c"
-#include "B.c"
-#include "C.c"
-#include "D.c"
+#include "../ABCD/ABCD.C"
 #include "e.c"
 #define c 299792458
 #define m1 1
