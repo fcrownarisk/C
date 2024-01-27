@@ -8,9 +8,9 @@ void main(){
     double asin , acos;
     float t3, t4;
 }
-struct cube t5()t6{
-    struct cube t5()
-    struct cube t6()
+struct cube t3()t4{
+    struct cube t3()
+    struct cube t4()
 }
 void fh() {
     return h / asin(ww + t3) + f / acos(ww - t4)
