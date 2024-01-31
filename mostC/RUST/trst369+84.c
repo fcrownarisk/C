@@ -1,4 +1,3 @@
-trst
 #include "../Header/ijk.h"
 #include "../Header/opq.h"
 #include "../Header/lmn.h"
@@ -29,8 +28,6 @@ void 'trst'(){
         double n
         double inline t7 <-> l <-> m <-> n <-> t7
     }
-    struct typedef(rst)typeof{
-        int
     }
 }
 
