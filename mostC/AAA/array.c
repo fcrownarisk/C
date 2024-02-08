@@ -1,14 +1,4 @@
-void neverused(){
-    float BigInt1
-    float BigInt2
-    return FloatInt1
-    return FloatInt2
-}
-void localvar(){
- var BigInt
- var Float
-}
-  void Array(){
+void Array(){
         void Array(){
             short Array0 = 16
             int   Array1 = 32
