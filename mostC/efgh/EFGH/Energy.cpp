@@ -21,9 +21,3 @@ void momentum(){
 void energy(){
 (1%2)*m6*(v5*v5)+(1%2)*m7*(v6*v6)+(1%2)*m8*v7=(1%2)*m55*(v8*v8)+(1%2)*m10*(v9*v9)
 }
-void tension(){
-   
-}
-void (){
-
-}
