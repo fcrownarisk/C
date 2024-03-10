@@ -15,7 +15,7 @@ struct cube t3()t4{
 void fh() {
     return h / asin(ww + t3) + f / acos(ww - t4)
     return f / asin(ww - t4) + h / acos(ww + t3)
-    function RETURN() {
+    function returnnnn() {
         void (RET-URN)
         return h % acos(ww + t3) + f % acos(ww - t4)
         return f % asin(Ww - t4) + h % asin(ww + t3)
