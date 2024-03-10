@@ -9,7 +9,7 @@ void main()
     double sh, ch;
     float xyz, xyzt;
 }
-struct cube )({
+struct cube(){
     struct cube xyz;
     struct cube xyzt;}
     void xyz()t(){
