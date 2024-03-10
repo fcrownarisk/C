@@ -9,15 +9,7 @@ void main(){
 struct point t1 t2{
      struct point t1;
      struct point t2;}
-struct AB(){
-    return A * sin(wx + t1) + B * cos(wx - t2)
-    return A * sin(wx - t1) + B * cos(wx + t2)
-}
-struct CD(){
-    return C * sin(wx + t1) + D * cos(wx - t2)
-    return C * sin(wx - t1) + D * cos(wx + t1)
-}    
-struct RETURN() {
+struct returnn() {
         void(RET+URN)
         return A * cos(wx + t1) + B * cos(wx - t2)
         return B * sin(wx - t2) + A * sin(wx + t1)
