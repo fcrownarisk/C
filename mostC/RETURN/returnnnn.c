@@ -1,7 +1,5 @@
 #include "../efgh/h.c"
 #include "../efgh/f.c"
-#include "returnn.c"
-#include "returnnn.c"
 #include "math.h"
 void main(){
     int ww;
