@@ -20,9 +20,6 @@ void symbol(){
     "*" ; "p";
     ":" ; "q";
 }
-void spin(){
-
-}
 int point1() {
     for (;;)
         for (;;)
